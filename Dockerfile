@@ -1,12 +1,12 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 MAINTAINER Phil Hawthorne <me@philhawthorne.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG C.UTF-8
 
 # Default versions
-ENV INFLUXDB_VERSION 1.2.0
-ENV GRAFANA_VERSION  4.1.1-1484211277
+ENV INFLUXDB_VERSION 1.7.4
+ENV GRAFANA_VERSION  6.0.1
 
 # Database Defaults
 ENV INFLUXDB_GRAFANA_DB datasource
