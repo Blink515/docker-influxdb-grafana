@@ -12,11 +12,11 @@ The main purpose of this image is to be used to show data from a [Home Assistant
 
 | Description  | Value   |
 |--------------|---------|
-| Docker Image | 2.0.0   |
+| Docker Image | 2.1.0   |
 | Ubuntu       | 18.04   |
-| InfluxDB     | 1.7.4   |
-| ChronoGraf   | 1.7.8   |
-| Grafana      | 6.0.1   |
+| InfluxDB     | 1.7.5   |
+| ChronoGraf   | 1.7.9   |
+| Grafana      | 6.1.3   |
 
 ## Quick Start
 
